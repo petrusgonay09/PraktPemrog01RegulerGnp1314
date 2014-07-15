@@ -1,0 +1,7 @@
+Cara Compile & memanggil: 
+==========================
+1. Menggunakan package-->javac -d bin -cp bin src/Main.java(compile semua dari klas Makanan-klas Main)
+                      -->java -cp bin Praktikum7.bin.Main
+											
+2. Menggunakan -cp--->javac -cp ./; Main.java(packageNya harus di matikan...!!)
+                  --->java -cp ./; Main
